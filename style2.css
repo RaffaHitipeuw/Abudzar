@@ -286,14 +286,22 @@ li:hover {
   margin-top: -10px;
 }
 .tahunn{
-display: flex;
+  margin-top: 90px;
+  display: flex;
+  background-color: white;
 }
 .tahunnkiri{
-
+  margin-left: 150px;
 }
 .tahunnkanan{
-
+  margin-left: 250px;
+  margin-top: 40px;
 }
 .tahunnkanan h1{
+  color: #4D4D4D;
+  margin-bottom: 10px;
+}
+.tahunnkanan P{
+  width: 650px;
   color: grey;
 }
